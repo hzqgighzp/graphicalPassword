@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1064913072384",
+    "firebase_url": "https://graphicalpassword.firebaseio.com",
+    "project_id": "graphicalpassword",
+    "storage_bucket": "graphicalpassword.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064913072384:android:c852d7c7d426e06d",
+        "android_client_info": {
+          "package_name": "com.example.graphicalpasswordapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064913072384-a81uk3k1id6rv9bct9bvef0aa08024o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLPlv69qiiVIG3Dt0mIpHO3QfxG7d-F9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064913072384-a81uk3k1id6rv9bct9bvef0aa08024o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
